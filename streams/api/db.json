@@ -1,0 +1,27 @@
+{
+  "streams": [
+    {
+      "title": "Concatenate Conf",
+      "description": "How to Assassinate CSS and climb the mountain",
+      "id": 1
+    },
+    {
+      "title": "React Summit",
+      "description": "React summit is a conference for front-end developer sto learn about the new additions to react.",
+      "userId": "105742853462885823858",
+      "id": 2
+    },
+    {
+      "title": "Node",
+      "description": "A very interesting technology that runs outside the browser",
+      "userId": "105742853462885823858",
+      "id": 3
+    },
+    {
+      "title": "Refactor",
+      "description": "Reactive and Reusable components are one of the major reasons that react exists",
+      "userId": "105742853462885823858",
+      "id": 5
+    }
+  ]
+}
